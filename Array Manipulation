@@ -50,9 +50,11 @@ int main(){
     printf("\n");
 /*
 TODO: 
-    1. Shift Right
-    2. Rotating an array to left
-    3. Rotating an array to right
+    Shifting an array right
+    Inserting an element into an array
+    Removing an element from an array
+    Rotating an array left
+    Rotating an array right
 */
     //main return
     return 0;
