@@ -4,7 +4,7 @@ This repository contains codes which might seem complex and there are other poss
 I am grateful to my teacher, Professor Dr. Mumit Khan. I have taken the sequence of topics from my undergrad courses (which were taught in Java). [Link to original lectures.](https://drive.google.com/open?id=0Bx8FYd_6cf7mZ1c5N1BOTW9NUmM)
 Let's C, if I can code some C too!
 
-##Array-Manipulation
+## Array-Manipulation
   1. Creating an array 
   3. Iterating over the elements of an array 
   4. Copying an array 
@@ -17,7 +17,7 @@ Let's C, if I can code some C too!
   11. Rotating an array left 
   12. Rotating an array right 
 
-##Circular-array-manipulation
+## Circular-array-manipulation
   1. Moving a cursor forward and backward 
   2. Iteration over the elements in a circular array 
   3. Linearizing a circular array 
