@@ -3,7 +3,7 @@
 #include<stdlib.h>
 
 int main(){
-    int data[]={8,9,10,-99,-99,-99,4,5,6,7};// Asume, -99 mean empty space
+    int data[]={8,9,10,0,0,0,4,5,6,7};// Asumption: 0 means empty/no element in that index 
     int capacity = sizeof(data)/sizeof(data[0]);
     int start =6;
     int size = 7;
@@ -59,6 +59,7 @@ int main(){
             printf("%d ", data[k]);
             k = (k+1)%capacity;
         }
+    printf("\n");
     //ends main function
     return 0;
 }
