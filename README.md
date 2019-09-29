@@ -33,5 +33,5 @@ Let's C, if I can code some C too!
   5. Searching
   6. Concatenation
 
-  (Read Chapter-5 of the book PRINCIPLES OF DATA STRUCTURES USING C AND C++ by Vinu V Das)[https://drive.google.com/open?id=1tcTMx-i4qQvs-KKD8GLs2iSrNSqxO-OU]
+  [Read Chapter-5 of the book PRINCIPLES OF DATA STRUCTURES USING C AND C++ by Vinu V Das](https://drive.google.com/open?id=1tcTMx-i4qQvs-KKD8GLs2iSrNSqxO-OU)
   
