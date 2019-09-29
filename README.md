@@ -25,3 +25,13 @@ Let's C, if I can code some C too!
   5. Inserting an element in a circular array 
   6. Removing an element in a circular array 
   
+## Linked-list-manipulation
+  1. Creation
+  2. Insertion
+  3. Deletion
+  4. Traversing
+  5. Searching
+  6. Concatenation
+
+  (Read Chapter-5 of the book PRINCIPLES OF DATA STRUCTURES USING C AND C++ by Vinu V Das)[https://drive.google.com/open?id=1tcTMx-i4qQvs-KKD8GLs2iSrNSqxO-OU]
+  
