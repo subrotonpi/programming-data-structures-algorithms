@@ -14,8 +14,8 @@ node * head = NULL;
 //function declaration
 void creaetList(int d);
 void AddAtBeginnig(int d);
-int count(node * head);
-void printList(node * head);
+int count( );
+void printList( );
 
 //main
 int main(){
