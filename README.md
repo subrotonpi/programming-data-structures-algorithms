@@ -1,9 +1,9 @@
 # c-review-and-data-structures
-This repository contains codes which might seem complex and there are other possible solutions. It is intended for audience with prior C-programming knowledge and started to learn Data Structures. Many concepts are used while coding. Documentation is not provided. Hope, this is readable to you! Good Luck!
+This repository contains codes which might seem complex to newbie and there are other possible solutions. It is intended for audience with prior C-programming knowledge and started to learn Data Structures. Many concepts are used while coding. Documentation is not provided. Hope, this is readable to you! Good Luck!
 
-I am grateful to my teacher, Professor Dr. Mumit Khan. I have taken the sequence of topics from my undergrad courses (which were taught in Java). [Link to original lectures.](https://drive.google.com/open?id=0Bx8FYd_6cf7mMWVoWTV2NFNDUDA)
+I am grateful to my teacher, Professor Dr. Mumit Khan. I have taken the sequence of topics from my undergrad courses (which were taught in Java). 
 Let's C, if I can code some C too!
-
+[Link to original lectures.](https://drive.google.com/open?id=0Bx8FYd_6cf7mMWVoWTV2NFNDUDA)
 ## Array-Manipulation
   1. Creating an array 
   3. Iterating over the elements of an array 
