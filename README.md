@@ -36,3 +36,9 @@ Let's C, if I can code some C too!
 
   [Read Chapter-5 of the book PRINCIPLES OF DATA STRUCTURES USING C AND C++ by Vinu V Das](https://drive.google.com/open?id=1tcTMx-i4qQvs-KKD8GLs2iSrNSqxO-OU)
   
+  ## Stack
+   1. Insert an element/Push
+   2. Remove an element/Pop
+   3. Chekc top of the stack/Peek
+   4. Check if a stack is empty
+   5. Check number of elements in the stack
