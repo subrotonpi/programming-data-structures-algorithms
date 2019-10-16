@@ -4,7 +4,7 @@ This repository contains codes which might seem complex to newbie and there are 
 I am grateful to my teacher, Professor Dr. Mumit Khan. I have taken the sequence of topics from my undergrad courses (which were taught in Java). 
 Let's C, if I can code some C too!
 [Link to original lectures.](https://drive.google.com/open?id=0Bx8FYd_6cf7mMWVoWTV2NFNDUDA)
-### data-structures-classroom-codes:
+# data-structures-classroom-codes:
 ## Array-Manipulation
   1. Creating an array 
   3. Iterating over the elements of an array 
