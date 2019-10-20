@@ -42,3 +42,8 @@ Let's C, if I can code some C too!
    3. Chekc top of the stack/Peek
    4. Check if a stack is empty
    5. Check number of elements in the stack
+  ## Qeueue
+   1. Enqueue
+   2. Dequeue
+   3. isEmpty()
+   4. Display()
