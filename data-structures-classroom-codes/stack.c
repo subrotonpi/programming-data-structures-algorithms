@@ -72,7 +72,7 @@ int size(){
 }
 void print_stack(){
     printf("\nPrinting the elements: \n");
-    for(int i = 0; i<MAX_SIZE; i++)
+    for(int i = top; i>=0; i--)
         printf("%d ", data[i]);
     printf("\n");
 }
