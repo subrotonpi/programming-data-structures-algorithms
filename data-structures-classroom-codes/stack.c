@@ -71,6 +71,8 @@ int size(){
     return top+1;
 }
 void print_stack(){
+    //if(top==-1): what to do?
+        
     printf("\nPrinting the elements: \n");
     for(int i = top; i>=0; i--)
         printf("%d ", data[i]);
