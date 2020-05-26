@@ -1,4 +1,4 @@
-# c-programming-and-data-structures
+# programming-data-structures-algorithms
 This repository contains codes which might seem complex to newbie and there are other possible solutions. It is intended for audience with both experienced(data-structures-classroom-codes) and newbie(c-programming-classroom-codes) with C-programming knowledge and started to learn Data Structures. Many concepts are used while coding. Documentation is not provided. Hope, this is readable to you! Good Luck!
 
 I am grateful to my teacher, Professor Dr. Mumit Khan. I have taken the sequence of topics from my undergrad courses (which were taught in Java). 
@@ -47,3 +47,6 @@ Let's C, if I can code some C too!
    2. Dequeue
    3. isEmpty()
    4. Display()
+# Algorithms codes
+## Few implementations of trivial/known algorithms in any of these languages: C/C++/Java/Python
+### The list bellow is incomplete... Go directly to the folder to find codes. 
