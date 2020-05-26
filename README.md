@@ -48,5 +48,16 @@ Let's C, if I can code some C too!
    3. isEmpty()
    4. Display()
 # Algorithms codes
-## Few implementations of trivial/known algorithms in any of these languages: C/C++/Java/Python
-### The list bellow is incomplete... Go directly to the folder to find codes. 
+
+## This repository contains some of the algorithms implementation in any one of the following languages:
+
+C
+C++
+Java
+Python
+These are some policies I followed:
+
+File name is self-explanatory.
+Any explanation of the implementation is provided as comments.
+Time/Space Complexity is provided for some codes.
+### The list of codes/algorithms is incomplete... Go directly to the folder to find codes. 
