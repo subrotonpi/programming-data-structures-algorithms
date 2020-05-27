@@ -61,3 +61,4 @@ File name is self-explanatory.
 Any explanation of the implementation is provided as comments.
 Time/Space Complexity is provided for some codes.
 ### The list of codes/algorithms is incomplete... Go directly to the folder to find codes. 
+1. factorial [iterative and recursive]
