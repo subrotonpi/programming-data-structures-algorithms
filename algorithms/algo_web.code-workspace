@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../web-html-css-js-php-mysql"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
