@@ -24,4 +24,7 @@ public class labdemo06june {
      return index;
     }
 
+    //https://www.cs.usfca.edu/~galles/visualization/Search.html
+    //https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/#:~:text=Time%20complexity%20of%20an%20algorithm,the%20length%20of%20the%20input.
+
 }
