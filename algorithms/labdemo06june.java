@@ -18,6 +18,7 @@ public class labdemo06june {
      while(counter<num.length){
         if(num[counter]==k){
             index=counter;
+            break;
         }
         counter++;
      }
