@@ -1,7 +1,7 @@
 /**
  * labdemo06june
  */
-public class labdemo06june {
+public class linearsearchlab {
 
     public static void main(String[] args) {
         //searching
